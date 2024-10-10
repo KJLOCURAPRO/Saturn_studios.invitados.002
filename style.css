@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+#open{
+    text-anchor: 50px;
+    color: #ffffff;
+    text-align: center;
+    text-anchor: 50px;
+    text-size-adjust: 50px;
+}
+
+#pregunta{
+    text-align: center;
+    color: lime;
+   font-size: 100px;
+   display: inline-block;
+   
+}
+
+#si{
+    position: absolute;
+    left: 50%;
+    top: 3080px;
+    height: 100px;
+    width: 100px;
+}
+
+#no{
+    position: absolute;
+    left: 30%;
+    top: 3080px;
+    height: 100px;
+    width: 100px;
+}
+
+.ocult{
+    display: none;
+}
